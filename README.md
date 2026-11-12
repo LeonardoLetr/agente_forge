@@ -19,3 +19,11 @@ The Dungeon Evolution Lab explores agent planning, memory, adaptive strategies, 
 - [Enterprise applications](docs/dungeon-evolution-lab/08-APLICACOES-EMPRESARIAIS.md)
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) for branch and commit naming conventions.
+## Learning-first development
+
+AgentForge is developed as an owner-led learning project. AI assistants should mentor, challenge architectural decisions, review code, and suggest readings—not implement learning-critical features unless asked.
+
+- [AI collaboration rules](AGENTS.md)
+- [Mentorship guidelines](docs/learning/MENTORSHIP-GUIDELINES.md)
+- [Learning path and reading resources](docs/learning/STUDY-PATH.md)
+- [Architecture learning journal](docs/learning/ARCHITECTURE-JOURNAL.md)
