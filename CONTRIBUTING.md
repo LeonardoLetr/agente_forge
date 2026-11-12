@@ -14,6 +14,13 @@ Create a fresh branch for every change, using English names with a type prefix a
 
 Protect `main` as the integration branch; submit changes using Pull Requests. The initial bootstrap commit on `main` is an exception required for an empty repository.
 
+## Workflow rules
+
+- Use short, descriptive, human-readable branch names in English; do not append dates, random numbers, or opaque identifiers unless necessary to distinguish an actual issue.
+- Create a new branch for each feature, fix, documentation change, or other scoped change.
+- Commit on that branch, open a Pull Request to `main`, and request the repository owner's explicit approval **before merging**.
+- Never merge into `main` automatically.
+
 ## Commits
 
 Write commit messages in English using [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/):
